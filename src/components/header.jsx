@@ -53,7 +53,7 @@ export default function Header() {
         {
           id: 7,
           title: "Procesos y Políticas TI",
-          link: "http://51.222.110.107:3005/gestion/procesosTI",
+          link: "http://51.222.110.107:3028/gestion/procesosTI",
           submenu: [],
         },
         {
@@ -78,7 +78,7 @@ export default function Header() {
         {
           id: 11,
           title: "Inducción General Empresa",
-          link: "http://51.222.110.107:3018/servicios/induccion-general",
+          link: "http://51.222.110.107:3026/servicios/induccion-general",
           submenu: [],
         },
         {
@@ -101,7 +101,7 @@ export default function Header() {
             {
               id: 15,
               title: "Vacaciones",
-              link: "http://51.222.110.107:3012/servicios/atencion-colaborador/vacaciones",
+              link: "http://51.222.110.107:3027/servicios/atencion-colaborador/vacaciones",
               submenu: [],
             },
             {
@@ -137,7 +137,7 @@ export default function Header() {
             {
               id: 21,
               title: "Mi Evaluación",
-              link: "http://51.222.110.107:3018/servicios/atencion-colaborador/evaluacion-desempeno",
+              link: "http://51.222.110.107:3025/servicios/atencion-colaborador/evaluacion-desempeno",
               submenu: [],
             },
           ],
